@@ -1,0 +1,134 @@
+@media (max-width: 1836px){   
+    .nav-bar__menu>ul>li {margin-left: 26px;}
+}
+@media (max-width: 1788px){   
+    .nav-bar__menu>ul>li {margin-left: 24px;}
+}
+@media (max-width: 1764px){   
+    .big-nav{width: 74%; left: 13%;}
+}
+@media (max-width: 1700px){  
+    .slider-2__next {right: 9%;}
+    .slider-2__prev{right: 11.5%;}
+}
+@media (max-width: 1668px){  
+    .big-nav{width: 78%; left: 11%;} 
+    .nav-bar__menu>ul>li {margin-left: 22px;}
+}
+@media (max-width: 1561px){  
+    .big-nav{width: 82%; left: 9%;} 
+    .nav-bar__menu>ul>li {margin-left: 16px;}
+    .slider-2__next {right: 5%;}
+    .slider-2__prev{right: 7.5%;}
+}
+@media (max-width: 1423px){  
+    .big-nav{width: 85%; left: 7.5%;} 
+    .slider-2__next {right: 4%;}
+    .slider-2__prev{right: 6.5%;}
+}
+@media (max-width: 1373px){  
+    .big-nav{width: 90%; left: 5%;}
+}
+@media (max-width: 1360px){ 
+    .slider-2__next {right: 2%;}
+    .slider-2__prev{right: 4.5%;}
+}
+@media (max-width: 1295px){  
+    .slider-2__next {right: 2%;}
+    .slider-2__prev{left: 2%;}
+}
+@media (min-width: 1085px) {
+    .sidebar{display: none !important;} 
+}
+@media (max-width: 1084px){
+    .item-caption {width: 45%; left: 90px;}
+    .nav-bar__menu{display: none;}
+    .big-nav{width: 100%; left: 0; top: 0; padding: 15px 0;}
+    .sidebar-menu{ display:block; display:flex; justify-content:flex-end; align-items:center;}
+    .basic-nav{max-height: 100vh; overflow: auto;}
+}
+@media (max-width: 991px){  
+    .home-news__tittle p { margin-bottom: 30px;}
+    .up {right: 50px;}
+}
+@media (max-width: 768px){  
+    .cover, .sub-cover, .sub-cover img, .overlay-layer{height: 800px;}
+    .item-caption {width: 50%; left: 50px;}
+    .item-text-1 {font-size: 30px}
+    .item-text-2 {font-size: 20px}
+    .go-button {padding: 8px 30px; font-size: 18px;}
+    .custom-shape-divider-bottom-1608477996 svg {height: 70px;}
+    .slider-1-navControl {bottom: 8px; right: 10%;}
+    .home-about-tittle .container, .home-products__tittle p, .home-news__tittle p, .help-tittle { font-size: 30px;}
+}
+@media (max-width: 574px){  
+    .cover, .sub-cover, .sub-cover img, .overlay-layer{height: 750px;}
+    .item-caption {top: 36%;}
+    .item-text-1 {font-size: 28px}
+    .item-text-2 {font-size: 18px}
+    .go-button {padding: 8px 20px; font-size: 16px; bottom: -60px;}
+    .slider-1-navControl div {margin-left: 8px;}
+}
+@media (max-width: 490px){  
+    .home-news__news1, .home-news__news2 { margin-right: 10px; margin-bottom: 10px;}
+}
+@media (max-width: 425px){  
+    .basic-nav{ padding: 0px 20px;}
+    .big-nav {padding: 10px 0;}
+    .logo-img a img{width: 100px;}
+    .cover, .sub-cover, .sub-cover img, .overlay-layer{height: 700px;}
+    .item-caption {width: 80%; left: 10%;}
+    .go-button {left: 30%;}
+    .custom-shape-divider-bottom-1608477996 svg {height: 60px;}
+    .slider-1-navControl {bottom: 4px; right: 5%;}
+    .slider-1-navControl div {margin-left: 5px;}
+    .home-about-tittle .container, .home-products__tittle p, .home-news__tittle p, .help-tittle { font-size: 26px;}
+    .slider-2__next, .slider-2__prev {bottom: 8px;}
+    .up {right: 30px;}
+}
+
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1220px){  
+    .slider-2__next {right: 1%;}
+    .slider-2__prev{left: 1%;}
+}
+@media (min-width: 992px) and (max-width: 1025px){ 
+    .slider-2__next {right: 0.5%;}
+    .slider-2__prev{left: 0.5%;}
+    .home-news__news1, .home-news__news2 { margin-right: 10px; margin-bottom: 10px;}
+    .home-news__tittle p { font-size: 30px;}
+}
+@media (min-width: 768px) and (max-width: 780px){ 
+    .slider-2__next {right: 0.5%;}
+    .slider-2__prev{left: 0.5%;}
+}
+@media (min-width: 1085px) and (max-width: 1297px){  
+    .logo-img a img{width: 100px;} 
+    .nav-bar__menu>ul>li>a {font-size: 15px;}
+    .basic-nav{ padding: 0px 20px;}
+}
+@media (min-width: 1085px) and (max-width: 1173px){  
+    .big-nav{width: 95%; left: 2.5%;}
+    .basic-nav{ padding: 0px 15px;} 
+    .nav-bar__menu>ul>li {margin-left: 14px;}
+}
+@media (max-width: 280px){  
+    .item-text-1 {font-size: 24px}
+    .item-text-2 {font-size: 16px}
+    .about-us-button a {padding: 10px 30px;}
+    .footer-ul li { letter-spacing: 0.5px;}
+}
+
+
+
+
+
+
+
+
+
+
+  
